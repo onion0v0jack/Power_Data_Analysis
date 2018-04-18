@@ -1,6 +1,7 @@
 ### 碩士論文-供電資料分析
 #### 資料來源 
 此電力需求資料來自1997年的一間荷蘭研究機構
+
 https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2015-56.pdf
 http://www.cs.ucr.edu/~eamonn/discords/HOT%20SAX%20%20long-ver.pdf
 #### 使用語言-R
